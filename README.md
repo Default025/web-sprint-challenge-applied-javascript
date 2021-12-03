@@ -60,7 +60,22 @@ In meeting the minimum viable product (MVP) specifications listed below, your pr
 Demonstrate your understanding of this week's concepts by answering the following questions:
 
 1. What is the DOM?
+
+The DOM is the document object model, it is a model that represents the parent child relationship between html elements.
+
 2. What is an event?
+
+An event is a tag that we use to tell the code to run when an action on the webpage is taken.
+
 3. What is an event listener?
+
+An event listener is what we use to define the action that we are listening for in order to trigger the event in example someone clicking on a tab in our webpage.
+
 4. Why would we convert a NodeList into an Array?
+
+We can use the resulting array to iterate through and append each item to the DOM using one for each or map.
+
 5. What is a component?
+
+A component is something that uses javascript, HTML, and CSS together to build something on the website all from javascript.
+
